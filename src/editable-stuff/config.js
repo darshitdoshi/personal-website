@@ -10,7 +10,7 @@ const mainBody = {
   firstName: "Darshit",
   middleName: "",
   lastName: "Doshi",
-  message: ` Software Engineer | Bolt `,
+  message: ` Software Engineer | Bolt Financial, Inc.`,
   icons: [
     {
       image: "fa-github",
@@ -29,7 +29,7 @@ const mainBody = {
   imageSizeHeight: 300,
   imageSizeWidth: 275,
   getInTouchMessage: "Feel free to say hi",
-  email: "darshit.doshi@gmail.com",
+  email: "mail@darshitd.com",
 };
 
 // ABOUT SECTION
@@ -126,7 +126,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "Feel free to say hi",
-  email: "darshit.doshi@gmail.com",
+  email: "mail@darshitd.com",
 };
 
 const experiences = {
@@ -135,7 +135,7 @@ const experiences = {
   data: [
     {
       role: 'Software Engineer @ Bolt',
-      companylogo: require('../assets/img/dell.png'),
+      companylogo: require('../assets/img/bolt-logo.jpeg'),
       date: 'July 2019 – Present',
     },
   ]
